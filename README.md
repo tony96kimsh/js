@@ -76,15 +76,11 @@ others
 
 [위치 정보 사용](https://www.notion.so/1d1f398452c380eab279cb7cb7ce2f6e?pvs=21)
 
-[드래그 앤 드롭](https://www.notion.so/1d1f398452c3807994cdc74030e9f601?pvs=21)
-
-[웹 스토리지](https://www.notion.so/1d1f398452c380259c48e58a6a8e452a?pvs=21)
-
-[웹 워커](https://www.notion.so/1d1f398452c3806b964dca1dc444bb9b?pvs=21)
-
-[오프라인 웹 어플리케이션](https://www.notion.so/1d1f398452c380258f78deea3cf8eb7b?pvs=21)
-
-[Submarine 게임 구현](https://www.notion.so/Submarine-1d1f398452c38004a9d6dd63dd631f8a?pvs=21)
+- 드래그 앤 드롭
+- 웹 스토리지
+- 웹 워커
+- 오프라인 웹 어플리케이션
+- Submarine 게임 구현
 
 # React
 
